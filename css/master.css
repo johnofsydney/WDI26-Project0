@@ -1,0 +1,28 @@
+body {
+  background-color: pink;
+}
+
+.square {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  border: red solid;
+}
+.row-1 {
+  top: 100px
+}
+.row-2 {
+  top: 200px
+}
+.row-3 {
+  top: 300px
+}
+.column-1 {
+  left: 100px
+}
+.column-2 {
+  left: 200px
+}
+.column-3 {
+  left: 300px
+}
